@@ -42,7 +42,7 @@ hero_media = "sharifu.jpg"
   label = "Contact me"
 
 +++
-## My name is **Sharifu Tusubira** and I'm a **genetics Enthusiast** specializing in **Artificial Intelligence**
+## My name is **Sharifu Tusuubira** and I'm a **genetics Enthusiast** specializing in **Artificial Intelligence**
 
 As a young man growing up in Kampala, Sharifu discovered his passion for science, advocacy
 and engaging communities. As a senior undergraduate, he conceived and launched a company

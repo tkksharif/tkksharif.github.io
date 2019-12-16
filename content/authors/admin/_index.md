@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sharifu Tusubira
+name: Sharifu Tusuubira
 avatar_image: "user-fulxl.png"
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Kansas State University
+- name: University of Kansas
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
