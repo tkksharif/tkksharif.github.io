@@ -58,9 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tkksharif
-- icon: scholar
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=MJuOvbkAAAAJ&amp;hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sharifutusuubira
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  

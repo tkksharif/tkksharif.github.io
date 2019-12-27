@@ -58,7 +58,7 @@ Responsibilities include:
 
 Responsibilities include:
   
-  * overall strategic and operational activities of USCRF's staff, programs, expansion, and execution of its mission.
+  * Overall strategic and operational activities of USCRF's staff, programs, expansion, and execution of its mission.
 
   * Building partnerships across the globe, establishing relationships with funders, researchers, political and community leaders
   
