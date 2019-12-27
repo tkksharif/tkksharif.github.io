@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Sharifu Tusuubira
-avatar_image: "user-fulxl.png"
+avatar_image: "sharif.jpg"
 # Username (this should match the folder name)
 authors:
 - admin

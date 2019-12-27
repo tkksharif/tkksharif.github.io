@@ -8,12 +8,12 @@ abstract: "A talk I gave at the Mandela Washington Fellows summit 2017 about sic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-08-01T13:00:00Z"
+date: "2019-08-01T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-08-14T00:00:00Z"
+publishDate: "2019-08-14T00:00:00Z"
 
 authors: []
 tags: []
