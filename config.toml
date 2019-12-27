@@ -16,7 +16,7 @@ baseURL = "http://sharifutusuubira.com/"
 copyright = "Tesla &copy{year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-154900307-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
