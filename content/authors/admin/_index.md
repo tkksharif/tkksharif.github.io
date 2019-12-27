@@ -89,7 +89,7 @@ Across the region, Sharifu has played a key role in supporting sickle cell advoc
 Through his work, Sharifu has been able to receive numerous honors and awards; in 2017 he was selected for the prestigious [Mandela Washington Fellowship](https://www.mandelawashingtonfellowship.org/) a program run by the United States Department of State, where top young leaders are selected from across Africa for a professional development experience in the USA. In 2018, he was selected for the Telemachus Mentorship, under the [Global Thinkers Forum](http://www.globalthinkersforum.org/) in the United Kingdom. He also received the 2018 [Clarke International University](http://www.ciu.ac.ug/) award for most outstanding community outreach.
 
 
-As part of the Mandela Washington Fellowship, Sharifu worked with the Office of Senator Vincent Hughes in Philadelphia. As part of the Telemachus Mentorship, Sharifu received mentorship from Mikias Sissay an independent communication consultant for EU Delegation to African Union in Addis Ababa  and the World Bank. 
+As part of the Mandela Washington Fellowship, Sharifu worked with the Office of Senator Vincent Hughes in Philadelphia. As part of the Telemachus Mentorship, Sharifu received mentorship from [Mikias Sissay](http://www.globalthinkersforum.org/people/mikias-sissay/) an independent communication consultant for EU Delegation to African Union in Addis Ababa  and the World Bank. 
 
 
 Today, Sharifu advises on genetics research, community transformation, sickle cell advocacy, and leads presentations and workshops for a wide range of audiences in his continued pursuit to contribute to youth development by linking science, community, creativity and commerce.  
