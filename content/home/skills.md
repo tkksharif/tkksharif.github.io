@@ -18,7 +18,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Science"
-  parcent = "90%"
+  parcent = "70%"
   
 [[feature]]
   icon = "user-secret"
@@ -30,7 +30,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "dna"
   icon_pack = "fas"
   name = "Genetics"
-  parcent = "70%"
+  parcent = "80%"
   
 [[feature]]
   icon = "searchengin"
