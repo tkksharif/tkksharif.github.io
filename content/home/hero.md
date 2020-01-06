@@ -35,7 +35,7 @@ hero_media = "sharifu.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "Know more"
+  label = "Learn More"
   
 [btn_alt]
   url = "#contact"
@@ -43,6 +43,6 @@ hero_media = "sharifu.jpg"
 
 +++
 ## BIO
-Sharifu K Tusuubira is a genetics enthusiast with a track record of launching companies and leading organizations in sub Saharan Africa.
+Sharifu Kiragga Tusuubira is a genetics enthusiast with a track record of launching companies and leading organizations in sub-Saharan Africa.
 
-As a young man growing up in Kampala, Sharifu discovered his passion for science, advocacy and engaging communities.  At 20 years of age, he conceived and launched his first company that went on to receive a contract  ( just after the launch) for offering vaccination services to the Government Analytical Laboratories , a division of the Ministry of Internal Affairs in Uganda. Sharifu is  passionate about research, and scaling it into innovative business ideas.  Sharifu is machine learning lover interested in its application in quantitative genetics and genomics.
+As a young man growing up in Kampala city, Sharifu discovered his passion for science, advocacy, and engaging communities. At 20 years of age, he conceived and launched his first company that went on to receive a contract (just after the launch) for offering vaccination services to the Government Analytical Laboratories, a division of the Ministry of Internal Affairs in Uganda. Sharifu is passionate about research and scaling it into innovative business ideas. Sharifu is a machine learning lover interested in its application in quantitative genetics and genomics.
