@@ -19,7 +19,7 @@ role: Ph.D. Fellow
 # Organizations/Affiliations
 organizations:
 - name: University of Kansas. 
-  url: "https://ku.edu/"
+  url: "https://eeb.ku.edu/sharifu-kiragga-tusuubira "
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include genetics, Artificial Intelligence and programmable matter.

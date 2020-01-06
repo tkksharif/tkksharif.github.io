@@ -1,7 +1,7 @@
 ---
 title: Why the decline in Government trust 
-subtitle: Learn how to blog in academia using Jupyter notebooks
-summary: Learn how to blog in academia using Jupyter notebooks
+subtitle: 
+summary: 
 authors:
 - admin
 tags: []
