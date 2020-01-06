@@ -14,12 +14,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Ph.D. Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Kansas
-  url: ""
+- name: University of Kansas. 
+  url: "https://ku.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include genetics, Artificial Intelligence and programmable matter.
