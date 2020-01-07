@@ -78,22 +78,16 @@ user_groups:
 - Visitors
 ---
 
-In 2013, Sharifu was identified to initiate and lead the [Uganda Sickle Cell Rescue Foundation](https://www.uscrfuganda.org/). A nonprofit organization formed with the aim of promoting awareness, sensitization and fighting sickle cell disease in Uganda.  Using his lived experiences, he advocated for people living with sickle cell disease to have rights to independent thinking, participate freely in community activities. He worked to address  the associated social stigma and construction around the general conceptualization of the disease in Uganda. Sharifu extended direct services to over 60,150 people, set up 10 support networks and registered 20,153 across Uganda.
+In 2013, Sharifu was identified to initiate and lead the [Uganda Sickle Cell Rescue Foundation](https://www.uscrfuganda.org/). A nonprofit organization formed with the aim of promoting awareness, sensitization and fighting sickle cell disease in Uganda. Using his lived experiences, he advocates for people living with sickle cell disease to have rights to independent thinking, participate freely in community activities. He worked to address the associated social stigma and construction around the general conceptualization of the disease in Uganda. Sharifu extended direct services to over 60,150 people, set up 10 support networks and registered 20,153 across Uganda.
 
+Sharifu is recognized for initiating the community sickle cell screening in Uganda. A program that is now implemented by the Ministry of Health, Uganda and several sickle cell organizations enabling residents to access sickle cell screening in their localities.
+Across the region, Sharifu has played a key role in supporting sickle cell advocacy. Sharifu was instrumental in the launch of the East Africa Sickle Cell Alliance. He worked with the Pan African Sickle Cell Federation International to support grassroots initiatives and build membership across East and Central Africa. In Ghana, Sharifu worked to support the setup and launch of Africa Sickle Cell Watch, a local nonprofit organization. He has traveled, lived, worked and/or studied in more than 6 countries ( Inclusive of United States, South Africa, Saudi Arabia, Nigeria, Kenya, Tanzania, etc.)
 
-<!-- ![reviews](../../img/certifacates.jpg)
- -->
-Across the region, Sharifu has played a key role in supporting sickle cell advocacy. Sharifu was instrumental in the launch of the East Africa Sickle Cell Alliance. He worked with the Pan African Sickle Cell Federation International  to support grassroot initiatives and build membership across East and Central Africa. In Ghana,  Sharifu worked with the founder of Africa Sickle Cell Watch to support the start-up of this Ghananian non profit. He has travelled, lived , worked and/or studied in more than 6 countries ( Inclusive of United States, South Africa, Saudi Arabia, Nigeria, etc.)
+Throughout his work, Sharifu has been able to receive numerous honors and awards; in 2017 he was selected for the prestigious [Mandela Washington Fellowship](https://yali.state.gov/mwf/), a program run by the United States Department of State, where top young leaders are selected from across Africa for a professional development experience in the USA. In 2018, he was selected for the Telemachus program, under the [Global Thinkers Forum](http://www.globalthinkersforum.org/) in the United Kingdom. He also received the 2018 [Clarke International University](http://ciu.ac.ug/) award for the most outstanding community outreach.
 
+As part of the Mandela Washington Fellowship, Sharifu worked with the Office of Senator Vincent Hughes in Philadelphia. He received mentorship from [Victor Ochen](https://www.weforum.org/people/victor-ochen), the first Ugandan and youngest ever African nominated for Nobel Peace Prize 2015. As part of Telemachus, Sharifu received mentorship from [Mikias Sissay](http://globalthinkersmentors.org/mikias-sissay), an independent communications consultant for EU Delegation to African Union in Addis Ababa and the World Bank.
 
-Through his work, Sharifu has been able to receive numerous honors and awards; in 2017 he was selected for the prestigious [Mandela Washington Fellowship](https://www.mandelawashingtonfellowship.org/) a program run by the United States Department of State, where top young leaders are selected from across Africa for a professional development experience in the USA. In 2018, he was selected for the Telemachus Mentorship, under the [Global Thinkers Forum](http://www.globalthinkersforum.org/) in the United Kingdom. He also received the 2018 [Clarke International University](http://www.ciu.ac.ug/) award for most outstanding community outreach.
-
-
-As part of the Mandela Washington Fellowship, Sharifu worked with the Office of Senator Vincent Hughes in Philadelphia. As part of the Telemachus Mentorship, Sharifu received mentorship from [Mikias Sissay](http://www.globalthinkersforum.org/people/mikias-sissay/) an independent communication consultant for EU Delegation to African Union in Addis Ababa  and the World Bank. 
-
-
-Today, Sharifu advises on genetics research, community transformation, sickle cell advocacy, and leads presentations and workshops for a wide range of audiences in his continued pursuit to contribute to youth development by linking science, community, creativity and commerce.  
-
-A father of two, and husband to Sophia, Sharifu is an avid archer, he spends his free time playing archery and writing for his upcoming memoir.  
-
-
+Sharifu is a doctoral fellow at the University of Kansas in the ecology and evolutionary biology department working with [Prof. John Kelly](http://eeb.ku.edu/john-kelly), a world-renowned geneticist as his faculty mentor.
+  
+Today, Sharif advises on genetics research, community transformation, and sickle cell advocacy.  He also leads presentations and workshops for a wide range of audiences in his continued pursuit to contribute to youth development by linking science, community, creativity and commerce.
+A father of two, and husband to Sophia, Sharifu is an avid archer, he spends his free time playing archery and writing for his upcoming memoir.
