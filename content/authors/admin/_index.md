@@ -22,7 +22,7 @@ organizations:
   url: "https://eeb.ku.edu/sharifu-kiragga-tusuubira "
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in Genetics.
+bio: My research interests include qualitative and quantitative genetics, population genomics, science policy and artificial intelligence.
 
 interests:
 - Artificial Intelligence
