@@ -52,7 +52,7 @@ porridge = "blueberry"
 if porridge == "blueberry":
   print("Eating...")
 ```
-
+<!-- 
 ---
 
 ## Math
@@ -163,4 +163,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://discourse.gohugo.io)
 
-[Documentation](https://sourcethemes.com/academic/docs/)
+[Documentation](https://sourcethemes.com/academic/docs/) -->
