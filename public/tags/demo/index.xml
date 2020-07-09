@@ -1,42 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Sharifu Tusubira | Official Site</title>
-    <link>https://fervent-kepler-e3a099.netlify.com/tags/demo/</link>
-    <description>Recent content in Demo on Sharifu Tusubira | Official Site</description>
+    <title>Demo on Sharifu K Tusuubira | Writer | Geneticist | official website</title>
+    <link>http://sharifutusuubira.com/tags/demo/</link>
+    <description>Recent content in Demo on Sharifu K Tusuubira | Writer | Geneticist | official website</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Sharifu Tusubira {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; Sharifu Tusuubira {year}</copyright>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://fervent-kepler-e3a099.netlify.com/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://sharifutusuubira.com/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/project/artificial-intelligence/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://fervent-kepler-e3a099.netlify.com/project/artificial-intelligence/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Forward Simulation modeling</title>
+      <link>http://sharifutusuubira.com/project/deep-learning/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/project/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://fervent-kepler-e3a099.netlify.com/project/external-project/</guid>
-      <description></description>
+      <guid>http://sharifutusuubira.com/project/deep-learning/</guid>
+      <description>&lt;p&gt;As a geneticist, Sharifu is involved in simulation modeling the process of creating and analyzing a digital prototype of a population genetics model to predict how different alleles change in the real world. Here the code from his first forward simulation model, working with a selfing population of monkeyflowers.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

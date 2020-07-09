@@ -1,81 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Sharifu Tusubira | Official Site</title>
-    <link>https://fervent-kepler-e3a099.netlify.com/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Sharifu Tusubira | Official Site</description>
+    <title>Recent &amp; Upcoming Talks on Sharifu K Tusuubira | Writer | Geneticist | official website</title>
+    <link>http://sharifutusuubira.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Sharifu K Tusuubira | Writer | Geneticist | official website</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Sharifu Tusubira {year}</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 13:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; Sharifu Tusuubira {year}</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://fervent-kepler-e3a099.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://sharifutusuubira.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>MWF Speech</title>
+      <link>http://sharifutusuubira.com/talk/coding/</link>
+      <pubDate>Thu, 01 Aug 2019 13:00:00 +0000</pubDate>
+      
+      <guid>http://sharifutusuubira.com/talk/coding/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2017 Story of Change</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/talk/story/</link>
+      <link>http://sharifutusuubira.com/talk/story/</link>
       <pubDate>Wed, 01 Aug 2018 13:00:00 +0000</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/talk/story/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using academia&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
- --&gt;
+      <guid>http://sharifutusuubira.com/talk/story/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>Delta TV Sickle Cell Awareness</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/talk/exchange/</link>
+      <link>http://sharifutusuubira.com/talk/exchange/</link>
       <pubDate>Fri, 11 May 2018 13:00:00 +0000</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/talk/exchange/</guid>
+      <guid>http://sharifutusuubira.com/talk/exchange/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban TV Sickle Cell Awareness Training</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/talk/urbantv/</link>
+      <link>http://sharifutusuubira.com/talk/urbantv/</link>
       <pubDate>Tue, 01 May 2018 13:00:00 +0000</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/talk/urbantv/</guid>
+      <guid>http://sharifutusuubira.com/talk/urbantv/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>MWF Speech</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/talk/coding/</link>
-      <pubDate>Tue, 01 Aug 2017 13:00:00 +0000</pubDate>
-      
-      <guid>https://fervent-kepler-e3a099.netlify.com/talk/coding/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using academia&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
- --&gt;
-</description>
     </item>
     
   </channel>

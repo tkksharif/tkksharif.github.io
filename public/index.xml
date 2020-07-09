@@ -1,77 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sharifu Tusubira | Official Site</title>
-    <link>https://fervent-kepler-e3a099.netlify.com/</link>
-    <description>Recent content on Sharifu Tusubira | Official Site</description>
+    <title>Sharifu K Tusuubira | Writer | Geneticist | official website</title>
+    <link>http://sharifutusuubira.com/</link>
+    <description>Recent content on Sharifu K Tusuubira | Writer | Geneticist | official website</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Sharifu Tusubira {year}</copyright>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; Sharifu Tusuubira {year}</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://fervent-kepler-e3a099.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://sharifutusuubira.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Posts</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fervent-kepler-e3a099.netlify.com/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fervent-kepler-e3a099.netlify.com/slides/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/talk/</link>
-      <pubDate>Wed, 01 Aug 2018 13:00:00 +0000</pubDate>
+      <link>http://sharifutusuubira.com/talk/</link>
+      <pubDate>Thu, 01 Aug 2019 13:00:00 +0000</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/publication/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://fervent-kepler-e3a099.netlify.com/publication/</guid>
+      <guid>http://sharifutusuubira.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <link>http://sharifutusuubira.com/project/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
+      <guid>http://sharifutusuubira.com/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://fervent-kepler-e3a099.netlify.com/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://sharifutusuubira.com/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://fervent-kepler-e3a099.netlify.com/courses/</guid>
+      <guid>http://sharifutusuubira.com/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://sharifutusuubira.com/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sharifutusuubira.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://sharifutusuubira.com/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sharifutusuubira.com/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://sharifutusuubira.com/publication/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://sharifutusuubira.com/publication/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -53,12 +53,67 @@
   </url>
   
   <url>
+    <loc>http://sharifutusuubira.com/talk/</loc>
+    <lastmod>2019-08-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/</loc>
+    <lastmod>2019-08-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/tags/deep-learning/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/tags/demo/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sharifutusuubira.com/project/deep-learning/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://sharifutusuubira.com/project/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/tags/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sharifutusuubira.com/post/demystifying-sickle-cell/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +143,77 @@
   </url>
   
   <url>
+    <loc>http://sharifutusuubira.com/publication_types/4/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/alima-komuhangi/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/bashir-mwabi/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/bashir-mwambi/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/christine-atuhairwe/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/fred-webbo/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/tags/health/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/ivan-mugisha-taremwa/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/john-odda/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/kenneth-mandu/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sharifutusuubira.com/publication/journal-article/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/publication_types/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/publication/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/rita-nakayinga/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/authors/sylvia-kiconco/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,163 +223,47 @@
   </url>
   
   <url>
+    <loc>http://sharifutusuubira.com/tags/academia/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/post/global-thinkers-mentors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/post/iono-fm-interview/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/post/observer-keeping-children/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharifutusuubira.com/post/newvision-national-health/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sharifutusuubira.com/post/my-journey/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sharifutusuubira.com/authors/admin/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/publication_types/4/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/tags/academia/</loc>
+    <loc>http://sharifutusuubira.com/post/observer-kabaka-run/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sharifutusuubira.com/authors/alima-komuhangi/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/bashir-mwabi/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/bashir-mwambi/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://sharifutusuubira.com/post/yali-voices-podcast/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sharifutusuubira.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/christine-atuhairwe/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/tags/deep-learning/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/tags/demo/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/fred-webbo/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/tags/health/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/ivan-mugisha-taremwa/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/john-odda/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/kenneth-mandu/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/post/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/project/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/publication_types/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/publication/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/talk/</loc>
-    <lastmod>2019-08-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/rita-nakayinga/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/authors/sylvia-kiconco/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sharifutusuubira.com/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
