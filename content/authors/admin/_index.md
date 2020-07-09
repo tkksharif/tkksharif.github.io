@@ -60,5 +60,4 @@ Sharifu is a doctoral fellow at the University of Kansas in the ecology and evol
 
 Today, Sharifu advises on genetics research, community transformation, and sickle cell advocacy.  He also leads presentations and workshops for a wide range of audiences in his continued pursuit to contribute to youth development by linking science, community, creativity and commerce.
 
-
-A father of two, and husband to Sophia, Sharifu is an avid archer, he spends his free time playing archery and writing for his upcoming memoir.
+ A father of two, and husband to Sophia, Sharifu is an avid archer and sportsman. He spends his free time playing archery and writing for his upcoming memoir.
