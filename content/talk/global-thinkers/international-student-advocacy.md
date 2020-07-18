@@ -1,25 +1,25 @@
 +++
-abstract = "Sharing the value of mentorship as we work to address the UN global goals"
+abstract = "As an international student, Sharifu shares the value of international students in the USA."
 all_day = false
 authors = []
-date = 2020-02-02T13:00:00Z
+date = 2020-07-09T05:00:00Z
 draft = true
 event = "Interview"
-event_url = "http://www.globalthinkersforum.org/"
+event_url = ""
 featured = false
 links = nil
 location = "USA"
 math = true
 projects = nil
-publishDate = 2020-06-06T00:00:00Z
+publishDate = 2020-07-10T00:00:00Z
 slides = nil
-summary = "Sharing the value of mentorship as we work to address the UN global goals"
+summary = "Sharing the value of international students in USA communities"
 tags = []
 title = "International student advocacy"
 url_code = ""
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=GUiYkXrgmho"
+url_video = "https://www.youtube.com/watch?v=yGt7_J3vIzM&fbclid=IwAR0VjOp464oDPgqSpZt5ZJcCqJFPExS1FoYx_UmjtNbPA_kqnXOS8DSOaGY"
 [image]
 caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 focal_point = "Right"
