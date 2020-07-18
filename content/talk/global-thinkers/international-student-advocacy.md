@@ -3,7 +3,6 @@ abstract = "As an international student, Sharifu shares the value of internation
 all_day = false
 authors = []
 date = 2020-07-09T05:00:00Z
-draft = true
 event = "Interview"
 event_url = ""
 featured = false
