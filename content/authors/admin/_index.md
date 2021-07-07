@@ -8,8 +8,9 @@ role: Ph.D. Fellow
 organizations:
 - name: University of Kansas.
   url: 'https://eeb.ku.edu/sharifu-kiragga-tusuubira '
-bio: My research interests include qualitative and quantitative genetics, population
-  genomics, science policy and artificial intelligence.
+bio: |
+  Sharifu Kiragga Tusuubira is an evolutionary geneticist in training, with a track record of launching companies and leading organizations in sub-Saharan Africa.
+  As a young man growing up in the slums of Kampala city, Sharifu discovered his passion for science, advocacy, and engaging communities. At 20 years of age, he conceived and launched his first company that went on to receive a contract (just after the launch) for offering vaccination services to the Government Analytical Laboratories, a division of the Ministry of Internal Affairs in Uganda. Sharifu is passionate about research and scaling it into innovative business ideas. Sharifu is a machine learning lover interested in its application in quantitative genetics and genomics.
 interests:
 - Artificial Intelligence
 - Genetics
