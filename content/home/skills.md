@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+subtitle = ""
 title = "Skills"
 weight = 30
 widget = "featurette"
