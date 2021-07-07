@@ -9,7 +9,7 @@ widget = "featurette"
 icon = "chart-line"
 icon_pack = "fas"
 name = "Data Science"
-parcent = "70%"
+parcent = "50%"
 [[feature]]
 icon = "user-secret"
 icon_pack = "fas"
