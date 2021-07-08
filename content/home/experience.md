@@ -1,67 +1,34 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
-
-title = "Experience"
-subtitle = "Previous Job placements to develop my expertise"
-
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+active = true
 date_format = "Jan 2006"
-
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+headless = true
+subtitle = "Previous Job placements to develop my expertise"
+title = "Experience"
+weight = 40
+widget = "experience"
 [[experience]]
-  title = "Research Mentee"
-  company = "Makerere University AI Lab"
-  company_url = "air.ug"
-  location = "Uganda"
-  date_start = "2019-01-01"
-  date_end = "2019-06-01"
-  description = """
-  Responsibilities include:
-  
-  * Development of Machine learning Algorithms in Python
-  * Mathematical modeling of real world problems 
-  * Deploying of Machine Learning models
-  """
-
+company = "Makerere University AI Lab"
+company_url = "air.ug"
+date_end = "2019-06-01"
+date_start = "2019-01-01"
+description = "  Responsibilities include:\n  \n  * Development of Machine learning Algorithms in Python\n  * Mathematical modeling of real world problems \n  * Deploying of Machine Learning models\n  "
+location = "Uganda"
+title = "Research Mentee"
 [[experience]]
-  title = "Assistant Professor"
-  company = "Clarke International University"
-  company_url = ""
-  location = "Uganda"
-  date_start = "2013-06-01"
-  date_end = ""
-  description = """
-Responsibilities include:
-  
-  * Chair Basic Sciences Research group focusing on sickle cell research in Uganda Communities
-  * Teaching Genetics to undergraduate students
-
-  """
-
+company = "Clarke International University"
+company_url = ""
+date_end = "2019-07-31T21:00:00+00:00"
+date_start = "2013-06-01"
+description = "Responsibilities include:\n  \n  * Chair Basic Sciences Research group focusing on sickle cell research in Uganda Communities\n  * Teaching Genetics to undergraduate students\n\n  "
+location = "Uganda"
+title = "Assistant Professor"
 [[experience]]
-  title = "Former Executive Director"
-  company = "Uganda Sickle Cell Rescue Foundation"
-  company_url = "https://www.uscrfuganda.org/ "
-  location = "Uganda"
-  date_start = "2013-06-04"
-  date_end = "2019-07-04"
-  description = """
+company = "Uganda Sickle Cell Rescue Foundation"
+company_url = "https://www.uscrfuganda.org/ "
+date_end = "2019-07-04"
+date_start = "2013-06-04"
+description = "Responsibilities include:\n  \n  * Overall strategic and operational activities of USCRF's staff, programs, expansion, and execution of its mission.\n\n  * Building partnerships across the globe, establishing relationships with funders, researchers, political and community leaders\n  \n  "
+location = "Uganda"
+title = "Former Executive Director"
 
-Responsibilities include:
-  
-  * Overall strategic and operational activities of USCRF's staff, programs, expansion, and execution of its mission.
-
-  * Building partnerships across the globe, establishing relationships with funders, researchers, political and community leaders
-  
-  """
-  
 +++
