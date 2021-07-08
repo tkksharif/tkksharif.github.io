@@ -17,7 +17,7 @@ title = "Member, Policy and Advocacy Subcommittee"
 [[experience]]
 company = "Clarke International University"
 company_url = ""
-date_end = "2019-07-31T21:00:00+00:00"
+date_end = "2019-08-01T21:00:00+00:00"
 date_start = "2013-06-01"
 description = "Responsibilities include:\n  \n  * Chair Basic Sciences Research group focusing on sickle cell research in Uganda Communities\n  * Teaching Genetics to undergraduate students\n\n  "
 location = "Uganda"
