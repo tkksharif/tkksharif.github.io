@@ -27,6 +27,9 @@ education:
     institution: Massachusetts Institute of Technology
     year: "2008"
 social:
+- icon: Wikipedia
+  icon_pack: fab
+  link: https://en.wikipedia.org/wiki/Sharifu_Kiragga_Tusuubira
 - icon: envelope
   icon_pack: fas
   link: "#contact"
