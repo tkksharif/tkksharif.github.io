@@ -1,6 +1,6 @@
 ---
 name: Sharifu Tusuubira
-avatar_image: sharif3.jpg
+avatar_image: sharifu.jpg
 authors:
 - admin
 superuser: true
