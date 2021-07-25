@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-hero_media = "sharif3.jpg"
+hero_media = "sharifu.jpg"
 title = "Academia"
 weight = 10
 widget = "hero"
