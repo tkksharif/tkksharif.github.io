@@ -60,7 +60,7 @@ Throughout his work, Sharifu has been able to receive numerous honors and awards
 
 As part of the Mandela Washington Fellowship, Sharifu worked with the Office of[ Senator Vincent Hughes](https://www.senatorhughes.com/) in Philadelphia. He received mentorship from[ Victor Ochen](https://www.weforum.org/people/victor-ochen), the first Ugandan and youngest ever African nominated for Nobel Peace Prize 2015. As part of Telemachus, Sharifu received mentorship from [Mikias Sissay](http://globalthinkersmentors.org/mikias-sissay), an independent communications consultant for EU Delegation to African Union in Addis Ababa and the World Bank.
 
-Sharifu is a doctoral fellow at the University of Kansas in the ecology and evolutionary biology department working with [Prof. John Kelly](http://eeb.ku.edu/john-kelly), a world-renowned population geneticist as his faculty mentor. Sharifu is also a board member at the Uriel Owens Sickle Cell Disease Association.
+Sharifu is a doctoral fellow at the University of Kansas in the ecology and evolutionary biology department working with [Prof. John Kelly](http://eeb.ku.edu/john-kelly), a world-renowned population geneticist as his faculty mentor. Sharifu is also a board member at the [Uriel Owens Sickle Cell Disease Association.](https://www.sicklecellmidwest.org/ "Uriel Owens Sickle Cell Disease Association")
 
 Today, Sharifu advises on community transformation and sickle cell advocacy. He also leads presentations and workshops for a wide range of audiences in his continued pursuit to contribute to youth development by linking science, community, creativity, and commerce.
 
