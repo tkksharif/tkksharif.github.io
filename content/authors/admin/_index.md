@@ -28,7 +28,7 @@ education:
     year: "2008"
 social:
 - icon: Wikipedia
-  icon_pack: fab
+  icon_pack: fas
   link: https://en.wikipedia.org/wiki/Sharifu_Kiragga_Tusuubira
 - icon: envelope
   icon_pack: fas
