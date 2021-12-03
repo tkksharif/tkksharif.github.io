@@ -8,9 +8,18 @@ role: Ph.D. Fellow
 organizations:
 - name: University of Kansas.
   url: 'https://eeb.ku.edu/sharifu-kiragga-tusuubira '
-bio: |
-  Sharifu Kiragga Tusuubira is an evolutionary geneticist in training, with a track record of launching companies and leading organizations in sub-Saharan Africa.
-  As a young man growing up in the slums of Kampala city, Sharifu discovered his passion for science, advocacy, and engaging communities. At 20 years of age, he conceived and launched his first company that went on to receive a contract (just after the launch) for offering vaccination services to the Government Analytical Laboratories, a division of the Ministry of Internal Affairs in Uganda. Sharifu is passionate about research and scaling it into innovative business ideas. Sharifu is a machine learning lover interested in its application in quantitative genetics and genomics.
+bio: "A PhD candidate in population genetics at the University of Kansas, with a track
+  record of launching non-profit and for-profit companies in sub-Saharan Africa.\nAn
+  entrepreneur, fundraiser and advocate supporting patients with Sickle Cell Disease
+  worldwide. Proven international leadership and project management experience that
+  combines business strategy acumen with technical understanding, knowledge of public
+  policy and effective communication.  \nHands-on scientist with a strong background
+  in computational genetics working on the genomic basis of mating system evolution.\nFeatured
+  among 100 Leaders of Impact by the Global Thinkers Forum (2021) and recognized as
+  the International Sickle Cell Advocate of the Year (2020). Awarded the Clarke International
+  University's most outstanding community outreach award (2018) and selected among
+  the top 1000 young leaders in Africa by the US Dept of State under the Mandela Fellowship
+  (2017)."
 interests:
 - Artificial Intelligence
 - Genetics
