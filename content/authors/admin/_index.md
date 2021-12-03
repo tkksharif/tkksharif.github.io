@@ -19,7 +19,7 @@ bio: "A PhD candidate in population genetics at the University of Kansas, with a
   the International Sickle Cell Advocate of the Year (2020). Awarded the Clarke International
   University's most outstanding community outreach award (2018) and selected among
   the top 1000 young leaders in Africa by the US Dept of State under the Mandela Fellowship
-  (2017)."
+  (2017)"
 interests:
 - Artificial Intelligence
 - Genetics
