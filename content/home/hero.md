@@ -20,7 +20,7 @@ text_color_light = false
 
 A PhD candidate in population genetics at the University of Kansas, with a track record of launching non-profit and for-profit companies in sub-Saharan Africa.
 
-An entrepreneur, fundraiser and advocate supporting patients with Sickle Cell Disease worldwide. Proven international leadership and project management experience that combines business strategy acumen with technical understanding, knowledge of public policy and effective communication.
+An entrepreneur, fundraiser and advocate supporting patients with Sickle Cell Disease worldwide. Has proven international leadership and project management experience that combines business strategy acumen with technical understanding, knowledge of public policy and effective communication.
 
 Hands-on scientist with a strong background in computational genetics working on the genomic basis of mating system evolution.
 
