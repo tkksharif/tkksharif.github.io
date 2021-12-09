@@ -1,13 +1,11 @@
 ---
-name: Sharifu Tusuubira
+name: My Story
 avatar_image: sharif4.png
 authors:
 - admin
 superuser: true
-role: Ph.D. Fellow
-organizations:
-- name: University of Kansas.
-  url: 'https://eeb.ku.edu/sharifu-kiragga-tusuubira '
+role: ''
+organizations: []
 bio: "A PhD candidate in population genetics at the University of Kansas, with a track
   record of launching non-profit and for-profit companies in sub-Saharan Africa.\nAn
   entrepreneur, fundraiser and advocate supporting patients with Sickle Cell Disease
