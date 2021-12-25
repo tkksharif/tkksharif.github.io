@@ -1,0 +1,68 @@
+---
+label: Parenteral Drug Association
+hide_body: true
+fields:
+- type: text
+  name: widget
+  label: widget
+- type: boolean
+  name: headless
+  label: headless
+- type: boolean
+  name: active
+  label: active
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: content
+  label: content
+  fields:
+  - type: text
+    name: page_type
+    label: page_type
+  - type: number
+    name: filter_default
+    label: filter_default
+  - type: field_group_list
+    name: filter_button
+    label: filter_button
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: tag
+      label: tag
+- type: field_group
+  name: design
+  label: design
+  fields:
+  - type: text
+    name: columns
+    label: columns
+  - type: number
+    name: view
+    label: view
+  - type: boolean
+    name: flip_alt_rows
+    label: flip_alt_rows
+  - type: field_group
+    name: background
+    label: background
+- type: field_group
+  name: advanced
+  label: advanced
+  fields:
+  - type: text
+    name: css_style
+    label: css_style
+  - type: text
+    name: css_class
+    label: css_class
