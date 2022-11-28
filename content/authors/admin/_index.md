@@ -7,7 +7,7 @@ superuser: true
 role: ''
 organizations: []
 bio: "A PhD candidate in population genetics at the University of Kansas, with a track
-  record of launching non-profit and for-profit companies in sub-Saharan Africa.\nAn
+  record of leading non-profit and for-profit companies in sub-Saharan Africa.\nAn
   entrepreneur, fundraiser and advocate supporting patients with Sickle Cell Disease
   worldwide. Proven international leadership and project management experience that
   combines business strategy acumen with technical understanding, knowledge of public
