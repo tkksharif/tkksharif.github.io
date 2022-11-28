@@ -18,7 +18,7 @@ text_color_light = false
 +++
 ## BIO
 
-A PhD candidate in Ecology and Evolutionary Biology specializing in population genetics at the University of Kansas, with a track record of leading non-profit and for-profit companies in sub-Saharan Africa.
+A PhD candidate in Ecology and Evolutionary Biology specializing in  quantitative genetics at the University of Kansas, with a track record of leading non-profit and for-profit companies in sub-Saharan Africa.
 
 An entrepreneur, fundraiser and advocate supporting patients with Sickle Cell Disease worldwide. Has proven international leadership and project management experience that combines business strategy acumen with technical understanding, knowledge of public policy and effective communication.
 
